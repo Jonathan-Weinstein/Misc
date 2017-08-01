@@ -1,1 +1,1 @@
-#Fcls: fancy clear screen
+# fcls: fancy clear screen
