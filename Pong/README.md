@@ -1,5 +1,5 @@
 # Pong
-
+![animation](./pong_anim.gif)  
 Uses SDL2. Compile with SDL2 folder in path so `#include <SDL2/SDL.h>` works.
 
 Ball may appear to be teleporting and not smoothly moving, even at 60 fps. Ex: ball at (100,100) frame 2, yvel=8, xvel=8.  
