@@ -1,0 +1,7 @@
+makefile
+
+optimize console, store & track more things instead of calling so many win32
+
+whispering
+
+console resizing
